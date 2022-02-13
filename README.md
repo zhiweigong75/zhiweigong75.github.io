@@ -1,6 +1,6 @@
 ## Qihang is handsome.
 
-[My personal site](htttps://pornhub.com)
+[My personal site](https://pornhub.com)
 
 ## Welcome to GitHub Pages
 
