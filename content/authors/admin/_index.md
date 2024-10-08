@@ -30,7 +30,7 @@ organizations:
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
-  - icon: email-1573-svgrepo-com.svg
+  - icon: email-1573-svgrepo-com
     url: 'mailto:your-email@example.com'
     label: E-mail Me
   - icon: brands/x
