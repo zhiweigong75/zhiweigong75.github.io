@@ -207,4 +207,6 @@ work:
 
 ## About Me
 
-I am currently a First-year Ph.D. student professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am currently a First-year Ph.D. student studying Artificial Intelligence in School of Computing and Information at University of Pittsburgh, advised by [Prof. Shandong Wu](https://www.aimi.pitt.edu/people/shandong-wu-phd).
+
+professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
