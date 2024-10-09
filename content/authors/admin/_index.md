@@ -49,15 +49,15 @@ profiles:
     url: https://orcid.org/0009-0001-2411-960X
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Medical Image Analysis
+  - Deep Learning
+  - Computer-aided Diagnostic
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: Ph.D. in Artificial Intelligence
+    institution: University of Pittsburgh
+    date_start: 2024-08-26
+    date_end: 2029-04-27
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
