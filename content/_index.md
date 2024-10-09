@@ -1,7 +1,7 @@
 ---
 # Leave the homepage title empty to use the site title
-title: "Zhiwei Gong"
-date: 2022-10-24
+title: Zhiwei Gong
+date: 2024-10-09
 type: landing
 
 design:
