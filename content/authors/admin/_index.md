@@ -59,7 +59,8 @@ education:
     date_start: 2024-08-26
     date_end: 2029-04-27
     summary: |
-      Research focus on AI in healthcare, especially for breast cancer diagnostic, supervised by [Prof. Shandong Wu](https://www.aimi.pitt.edu/people/shandong-wu-phd). 
+      Research focus on AI in healthcare, especially for breast cancer diagnostic.
+# , supervised by [Prof. Shandong Wu](https://www.aimi.pitt.edu/people/shandong-wu-phd). 
 # text: 'Read Thesis'
 # url: 'https://example.com'
   - area: M.S.E. in Applied Mathematics and Statistics
