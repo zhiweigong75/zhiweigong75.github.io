@@ -88,7 +88,7 @@ education:
       - Measure Theory and Integration
       - Calculus of Variations
   - area: B.Sc. in Mathematics and Applied Mathematics
-    institution: Nanjing University of Information Science \& Technology
+    institution: Nanjing University of Information Science & Technology
     date_start: 2017-09-01
     date_end: 2021-06-23
     summary: |
