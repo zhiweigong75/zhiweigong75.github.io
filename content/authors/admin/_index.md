@@ -31,20 +31,22 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:ZHG64@pitt.edu'
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: https://x.com/ZhiweiGong3
+  #- icon: brands/instagram
+  #  url: https://www.instagram.com/zhiwei7537/
+  - icon: academicons/researchgate
+    url: https://www.researchgate.net/profile/Zhiwei-Gong-3
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/zhiweigong75
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/zhiwei-gong75/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    # url: https://scholar.google.com/
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://orcid.org/0009-0001-2411-960X
 
 interests:
   - Artificial Intelligence
@@ -72,10 +74,10 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: BSc in Mathematics and Applied Mathematics
+    institution: University of Reading
+    date_start: 2020-09-21
+    date_end: 2021-06-23
     summary: |
       GPA: 3.4/4.0
       
