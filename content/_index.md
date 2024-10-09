@@ -28,10 +28,8 @@ sections:
           filters:
             brightness: 1.0
           size: cover
-      style: |
-        .dark {
-          margin: 5px; /* Adjust the margin size as needed */
-        }
+          position: center
+          parallax: false
   - block: markdown
     content:
       title: '📚 My Research'
