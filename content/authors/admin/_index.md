@@ -108,7 +108,7 @@ work:
     date_end: 2024-05-16
     summary: |2-
       Responsibilities include:
-      - Established the state-of-the-art performance of semi-supervised domain adaptation (SSDA) and unsupervised domain adaptation (UDA) methods for generalizability of algorithms for video-based assessment (VBA) of intra- operative skill in a critical step in cataract surgery.
+      - Established the state-of-the-art performance of semi-supervised domain adaptation (SSDA) and unsupervised domain adaptation (UDA) methods for generalizability of algorithms for video-based assessment (VBA) of intraoperative skill in a critical step in cataract surgery.
       - Evaluated the utility of UDA with maximum mean discrepancy (MMD) for prediction tasks that use temporal models.
   - position: Graduate Research Assistant
     company_name: Johns Hopkins University, Laboratory for Computational Sensing + Robotics (LCSR)
@@ -167,11 +167,7 @@ work:
 #         percent: 80
 #         icon: camera
 
-# languages:
-#   - name: Chinese
-#     percent: 100
-#   - name: English
-#     percent: 90
+
 
 # Awards.
 #   Add/remove as many awards below as you like.
