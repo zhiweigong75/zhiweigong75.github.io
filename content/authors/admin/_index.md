@@ -88,7 +88,7 @@ education:
       - Measure Theory and Integration
       - Calculus of Variations
   - area: B.Sc. in Mathematics and Applied Mathematics
-    institution: Nanjing University of Information Science and Technology
+    institution: Nanjing University of Information Science \& Technology
     date_start: 2017-09-01
     date_end: 2021-06-23
     summary: |
@@ -208,7 +208,7 @@ work:
 
 ## About Me
 
-I am a First-year Ph.D. student in Artificial Intelligence at Intelligent Computing for Clinical Imaging (ICCI) Lab, University of Pittsburgh, advised by [Prof. Shandong Wu](https://www.aimi.pitt.edu/people/shandong-wu-phd). I am also affiliated with University of Pittsburgh Medical Center (UPMC). I got my M.S.E. degree in Appliematics and Statistics at Johns Hopkins University in 2023, advised by [Prof. Russell H. Taylor](https://engineering.jhu.edu/faculty/russell-taylor/). And I got my B.Sc. degree in Mathematics and Applied Mathematics at University of Reading and Nanjing University of Information Science \& Technology in 2021.
+I am a First-year Ph.D. student in Artificial Intelligence at Intelligent Computing for Clinical Imaging (ICCI) Lab, University of Pittsburgh, advised by [Prof. Shandong Wu](https://www.aimi.pitt.edu/people/shandong-wu-phd). I am also affiliated with University of Pittsburgh Medical Center (UPMC). I got my M.S.E. degree in Appliematics and Statistics at Johns Hopkins University in 2023, advised by [Prof. Russell H. Taylor](https://engineering.jhu.edu/faculty/russell-taylor/). And I got my B.Sc. degree in Mathematics and Applied Mathematics at University of Reading and [Nanjing University of Information Science \& Technology](https://en.nuist.edu.cn/main.psp) in 2021.
 
 
 <!-- I am currently a First Year Ph.D. student (2024.01 - Now), working in Department of Medical Biophysics, University of Toronto, with Prof. Simon Graham. I am also affiliated with Physical Science Platform, Sunnybrook Research Institute. My work is about 3D Selective Excitation of Arbitrary Reduced FOV for High Resolution and Fast Reconstruction in anatomical and functional magnetic resonance imaging.
