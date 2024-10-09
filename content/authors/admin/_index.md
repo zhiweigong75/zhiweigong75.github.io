@@ -59,32 +59,45 @@ education:
     date_start: 2024-08-26
     date_end: 2029-04-27
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      Research focus on AI in healthcare, especially for breast cancer diagnostic. Supervised by [Prof. Shandong Wu](https://www.aimi.pitt.edu/people/shandong-wu-phd). 
+      #text: 'Read Thesis'
+      #url: 'https://example.com'
+  - area: M.S.E. in Applied Mathematics and Statistics
+    institution: Johns Hopkins University
+    date_start: 2021-08-30
+    date_end: 2023-05-16
     summary: |
-      GPA: 3.8/4.0
+      GPA: 3.61/4.0
 
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc in Mathematics and Applied Mathematics
+      - Medical Image Analysis
+      - Deep Learning
+      - Bayesian Statistics
+  - area: B.Sc. in Mathematics and Applied Mathematics
     institution: University of Reading
     date_start: 2020-09-21
     date_end: 2021-06-23
     summary: |
-      GPA: 3.4/4.0
+      GPA: 3.93/4.0
       
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Stochastic Processes
+      - Statistical Data Science and Machine Learning
+      - Measure Theory and Integration
+      - Calculus of Variations
+  - area: B.Sc. in Mathematics and Applied Mathematics
+    institution: Nanjing University of Information Science and Technology
+    date_start: 2017-09-01
+    date_end: 2021-06-23
+    summary: |
+      GPA: 3.8/4.0
+      
+      Courses included:
+      - Mathematical Analysis
+      - Partial Differential Equation
+      - Calculus
+      - Probability Theory
+      - Abstract Algebra
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
