@@ -6,7 +6,7 @@ title: 'Statistical Shape Model of the Eustachian Tube for Understanding and Man
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
-  # - Robert Ford
+
 
 # Author notes (optional)
 author_notes:
@@ -22,7 +22,7 @@ publishDate: '2017-01-01T00:00:00Z'
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ['abstract & poster-conference']
+publication_types: ['poster-conference']
 
 # Publication name and optional abbreviated publication name.
 publication: * TRIOLOGICAL SOCIETY 125th Annual Meeting at Combined Otolaryngology Spring Meetings (COSM)* 
@@ -76,12 +76,4 @@ projects:
 slides: example
 ---
 
-<!-- {{% callout note %}}
-Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
 
-{{% callout note %}}
-Create your slides in Markdown - click the _Slides_ button to check out the example.
-{{% /callout %}}
-
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/). -->
