@@ -7,7 +7,7 @@ title: Zhiwei Gong
 
 # Full name (for SEO)
 first_name: Zhiwei
-last_name: Gong*
+last_name: Gong
 
 # Status emoji
 # status:
