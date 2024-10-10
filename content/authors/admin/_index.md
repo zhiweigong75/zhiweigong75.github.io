@@ -210,11 +210,3 @@ work:
 
 I am a First-year Ph.D. student in Artificial Intelligence at Intelligent Computing for Clinical Imaging (ICCI) Lab, [University of Pittsburgh](https://www.pitt.edu/), advised by [Prof. Shandong Wu](https://www.aimi.pitt.edu/people/shandong-wu-phd). I am also affiliated with [University of Pittsburgh Medical Center (UPMC)](https://www.upmc.com/). I got my M.S.E. degree in Appliematics and Statistics at [Johns Hopkins University](https://www.jhu.edu/) in 2023, advised by [Prof. Russell H. Taylor](https://engineering.jhu.edu/faculty/russell-taylor/) and [Prof. Swaroop S. Vedula](https://malonecenter.jhu.edu/people/swaroop-vedula/). And I got my B.Sc. degree in Mathematics and Applied Mathematics at [University of Reading](https://www.reading.ac.uk/) and [Nanjing University of Information Science \& Technology](https://en.nuist.edu.cn/main.psp) in 2021.
 
-
-<!-- I am currently a First Year Ph.D. student (2024.01 - Now), working in Department of Medical Biophysics, University of Toronto, with Prof. Simon Graham. I am also affiliated with Physical Science Platform, Sunnybrook Research Institute. My work is about 3D Selective Excitation of Arbitrary Reduced FOV for High Resolution and Fast Reconstruction in anatomical and functional magnetic resonance imaging.
-
-I got M.S.E. degree in Surgical Robotics at Johns Hopkins University in 2023, working in Laboratory for Computational Sensing and Robotics, advised by Prof. Russell H. Taylor, and got B.Sc. degrees in Computer Science and Mechanical Engineering at University of Pittsburgh and Sichuan University in 2021.
-
-I spent wonderful time at JHU Malone Center for Engineering in Healthcare with Dr. Swaroop S. Vedula, at Chinese University of Hong Kong (CUHK) with Dr. Qi Dou, and at Tianjin University with Dr. Xinan Sun.
-
-professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks. -->
