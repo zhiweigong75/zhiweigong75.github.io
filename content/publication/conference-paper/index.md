@@ -5,15 +5,17 @@ title: 'Statistical Shape Model of the Eustachian Tube for Understanding and Man
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - admin^{*}
-  - Ameen Amanian*
+  - admin
+  - Ameen Amanian
   - Yuliang Xiao
   - Aseem Jain
   - Manish Sahu
   - Francis Creighton
 
 # Author notes (optional)
-author_notes: '*'
+author_notes: 
+  - 'Equal contribution'
+  - 'Equal contribution'
   
 
 date: '2023-05-05T00:00:00Z'
