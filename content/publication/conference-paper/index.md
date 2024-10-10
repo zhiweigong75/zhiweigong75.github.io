@@ -12,11 +12,14 @@ authors:
   - Manish Sahu
   - Francis Creighton
 
-
 # Author notes (optional)
 author_notes:
-  - '* Equal contribution'
-  - '* Equal contribution'
+  - 'Equal contribution'
+  - 'Equal contribution'
+  - ''
+  - ''
+  - ''
+  - ''
 
 date: '2023-05-05T00:00:00Z'
 doi: ''
@@ -30,7 +33,7 @@ publishDate: '2017-01-01T00:00:00Z'
 publication_types: ['poster-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: "*TRIOLOGICAL SOCIETY 125th Annual Meeting at Combined Otolaryngology Spring Meetings (2023), Oral*"
+publication: "*TRIOLOGICAL SOCIETY 125th Annual Meeting at Combined Otolaryngology Spring Meetings (Oral)*"
 publication_short: ""
 
 abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
