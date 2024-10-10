@@ -10,7 +10,7 @@ authors:
   - Yuliang Xiao
   - Aseem Jain
   - Manish Sahu
-  - Francis Creighton
+  - Francis X. Creighton
 
 # Author notes (optional)
 author_notes: 

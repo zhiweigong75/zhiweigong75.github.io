@@ -5,12 +5,14 @@ title: 'Statistical Shape Model of the Eustachian Tube for Understanding and Man
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - admin
   - Ameen Amanian
   - Yuliang Xiao
-  - Aseem Jain
+  - admin
+  - Deepa Galaiya
+  - Russell H. Taylor
+  - Mathias Unberath
   - Manish Sahu
-  - Francis Creighton
+  - Francis X. Creighton
 
 # Author notes (optional)
 author_notes: 
@@ -18,7 +20,7 @@ author_notes:
   - 'Equal contribution'
   
 
-date: '2023-05-05T00:00:00Z'
+date: '2022-10-02T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
@@ -30,16 +32,16 @@ publishDate: '2017-01-01T00:00:00Z'
 publication_types: ['poster-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: "*TRIOLOGICAL SOCIETY 125th Annual Meeting at Combined Otolaryngology Spring Meetings (Oral)*"
+publication: "*Conference on Machine Intelligence in Medical Imaging (Oral)*"
 publication_short: ""
 
-abstract: Statistical shape models (SSMs) are a method for mathematically defining three dimensional objects and their variation. SSMs have become increasingly useful in defining radiographic anatomy over the past decade. There is currently a lack of knowledge pertaining to the interpatient anatomical variation within the eustachian tube (ET). We aimed to develop an automated pipeline to develop the first radiographic SSMs of the ET. A total of sixty ETs automatically segmented via a deep learning platform from computed tomography scans of adult patients were included. Each segmentation was separated into the nasopharyngeal (i.e., soft tissue), middle (i.e., cartilaginous), and ear (i.e., bony) ends. The first three principal components (PC) of each SSM were analyzed to describe shape variation. Analysis of the nasopharyngeal end showed notable variation in size and orientation with respect to its articulation point with the middle ET portion. For the nasal end, the main variation occurred along its 1st PC corresponding to its long length axis with an average distance of 6.06-10.40mm. Analysis of the bony ET end showed most of its variability along its length and width. However, the bony ET demonstrated the least variation in shape (0.12-0.34mm). This study presents the first radiographic SSMs of the ET and shows that most of the ET variation occurs in the nasopharyngeal end. Due to pipeline’s automated nature, it can be translated into large data analysis by providing insight into the ET anatomy and used to investigate shape differences amongst patients with and without nasopharyngeal pathology
+abstract: Obtaining automated, objective 3-dimensional (3D) models of the Eustachian tube (ET) and the internal carotid artery (ICA) from computed tomography (CT) scans could provide useful navigational and diagnostic information for ET pathologies and interventions. We aim to develop a deep learning (DL) pipeline to automatically segment the ET and ICA and use these segmentations to compute distances between these structures. From a database of 30 CT scans, 60 ET and ICA pairs were manually segmented and used to train an nnU-Net model, a DL segmentation framework. These segmentations were also used to develop a quantitative tool to capture the magnitude and location of the minimum distance point (MDP) between ET and ICA. Performance metrics for the nnU-Net automated segmentations were calculated via the average Hausdorff distance (AHD) and dice similarity coefficient (DSC). The AHD for the ET and ICA were 0.922 and 0.246 mm, respectively. Similarly, the DSC values for the ET and ICA were 0.578 and 0.884. The mean MDP from ET to ICA in the cartilaginous region was 2.6 mm (0.7-5.3 mm) and was located on average 1.9 mm caudal from the bony cartilaginous junction. This study describes the first end-to-end DL pipeline for automated ET and ICA segmentation and analyzes distances between these structures. In addition to helping to ensure the safe selection of patients for ET dilation, this method can facilitate large-scale studies exploring the relationship between ET pathologies and the 3D shape of the ET.
 
 # Summary. An optional shortened abstract.
-summary: 'Highlight the current limited understanding of the variations present with the eustachian tube and demonstrate the utility of statistical shape models in quantifying variations present within the eustachian tube to explain interpatient differences based on age, sex, and pathology.'
+summary: 'Obtaining automated, objective 3-dimensional (3D) models of the Eustachian tube (ET) and the internal carotid artery (ICA) from computed tomography (CT) scans could provide useful navigational and diagnostic information for ET pathologies and interventions. We aim to develop a deep learning (DL) pipeline to automatically segment the ET and ICA and use these segmentations to compute distances between these structures.'
 
 tags:
-  - Statistical Shape Models, Eustachian Tube
+  - Deep Learning, Eustachian Tube Dysfunction, Medical Imaging
 
 # Display this page in the Featured widget?
 featured: true
@@ -49,7 +51,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://cdn.ymaws.com/triological.site-ym.com/resource/resmgr/past_meetings/2023cosmprogramlong.pdf'
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: 'https://www.researchposters.com/display_posters.aspx?confcd=COSM2023&pageNumber=27'
