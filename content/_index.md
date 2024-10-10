@@ -1,6 +1,6 @@
 ---
 # Leave the homepage title empty to use the site title
-title: Adventures of Medical AI Wonderland
+title: Zhiwei Gong
 date: 2024-10-09
 type: landing
 
