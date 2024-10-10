@@ -39,13 +39,13 @@ publication_short: ""
 abstract: Statistical shape models (SSMs) are a method for mathematically defining three dimensional objects and their variation. SSMs have become increasingly useful in defining radiographic anatomy over the past decade. There is currently a lack of knowledge pertaining to the interpatient anatomical variation within the eustachian tube (ET). We aimed to develop an automated pipeline to develop the first radiographic SSMs of the ET. A total of sixty ETs automatically segmented via a deep learning platform from computed tomography scans of adult patients were included. Each segmentation was separated into the nasopharyngeal (i.e., soft tissue), middle (i.e., cartilaginous), and ear (i.e., bony) ends. The first three principal components (PC) of each SSM were analyzed to describe shape variation. Analysis of the nasopharyngeal end showed notable variation in size and orientation with respect to its articulation point with the middle ET portion. For the nasal end, the main variation occurred along its 1st PC corresponding to its long length axis with an average distance of 6.06-10.40mm. Analysis of the bony ET end showed most of its variability along its length and width. However, the bony ET demonstrated the least variation in shape (0.12-0.34mm). This study presents the first radiographic SSMs of the ET and shows that most of the ET variation occurs in the nasopharyngeal end. Due to pipeline’s automated nature, it can be translated into large data analysis by providing insight into the ET anatomy and used to investigate shape differences amongst patients with and without nasopharyngeal pathology
 
 # Summary. An optional shortened abstract.
-summary: ''
+summary: 'Highlight the current limited understanding of the variations present with the eustachian tube and demonstrate the utility of statistical shape models in quantifying variations present within the eustachian tube to explain interpatient differences based on age, sex, and pathology.'
 
 tags:
   - Statistical Shape Models, Eustachian Tube
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:
