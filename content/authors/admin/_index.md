@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Zhiwei Gong
+title: Adventures of Medical AI Wonderland
 
 # Name pronunciation (optional)
 # name_pronunciation: Chien Shiung Wu
