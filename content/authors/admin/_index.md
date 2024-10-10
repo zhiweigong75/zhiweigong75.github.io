@@ -30,7 +30,7 @@ organizations:
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
-  - icon: custom/new-icon.svg
+  - icon: brands/evelope
     url: 'mailto:gongz3@upmc.edu'
     label: E-mail Me
   - icon: brands/x
