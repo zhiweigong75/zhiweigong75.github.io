@@ -51,7 +51,7 @@ profiles:
 interests:
   - Medical Image Analysis
   - Deep Learning
-  - Computer-aided Diagnostic
+  - Computer-aided Diagnosis
 
 education:
   - area: Ph.D. in Artificial Intelligence
