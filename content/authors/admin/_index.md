@@ -6,8 +6,8 @@ title: Zhiwei Gong
 # name_pronunciation: Chien Shiung Wu
 
 # Full name (for SEO)
-first_name: Adventures of Medical AI 
-last_name: Wonderland
+first_name: Zhiwei
+last_name: Gong
 
 # Status emoji
 # status:
