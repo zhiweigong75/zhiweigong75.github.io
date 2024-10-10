@@ -31,7 +31,7 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:ZHG64@pitt.edu'
+    url: 'gongz3@upmc.edu'
     label: E-mail Me
   - icon: brands/x
     url: https://x.com/ZhiweiGong3
