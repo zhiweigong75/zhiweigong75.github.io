@@ -1,13 +1,13 @@
 ---
 # Display name
-title: Adventures of Medical AI Wonderland
+title: Zhiwei Gong
 
 # Name pronunciation (optional)
 # name_pronunciation: Chien Shiung Wu
 
 # Full name (for SEO)
-first_name: Zhiwei
-last_name: Gong
+first_name: Adventures of Medical AI 
+last_name: Wonderland
 
 # Status emoji
 # status:
