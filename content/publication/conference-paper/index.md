@@ -54,7 +54,7 @@ featured: true
 url_pdf: '/conference-paper.pdf'
 url_code: ''
 url_dataset: ''
-url_poster: 'https://www.researchposters.com/display_posters.aspx?confcd=COSM2023&pageNumber=27'
+url_poster: '/CMIMI_Poster.pdf'
 url_project: ''
 url_slides: ''
 url_source: ''
