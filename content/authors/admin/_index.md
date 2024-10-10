@@ -206,7 +206,7 @@ work:
 #       Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 ---
 
-## Greetings! Welcome to my homepage!
+## Zhiwei Gong
 
 I am a First-year Ph.D. student in Artificial Intelligence at Intelligent Computing for Clinical Imaging (ICCI) Lab, [University of Pittsburgh](https://www.pitt.edu/), advised by [Prof. Shandong Wu](https://www.aimi.pitt.edu/people/shandong-wu-phd). I am also affiliated with [University of Pittsburgh Medical Center (UPMC)](https://www.upmc.com/). I got my M.S.E. degree in Appliematics and Statistics at [Johns Hopkins University](https://www.jhu.edu/) in 2023, advised by [Prof. Russell H. Taylor](https://engineering.jhu.edu/faculty/russell-taylor/) and [Prof. Swaroop S. Vedula](https://malonecenter.jhu.edu/people/swaroop-vedula/). And I got my B.Sc. degree in Mathematics and Applied Mathematics at [University of Reading](https://www.reading.ac.uk/) and [Nanjing University of Information Science \& Technology](https://en.nuist.edu.cn/main.psp) in 2021.
 
