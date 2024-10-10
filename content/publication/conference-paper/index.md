@@ -13,7 +13,7 @@ authors:
   - Francis Creighton
 
 # Author notes (optional)
-author_notes: "*"
+author_notes: '*'
   
 
 date: '2023-05-05T00:00:00Z'
