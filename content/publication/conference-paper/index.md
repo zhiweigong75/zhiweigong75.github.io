@@ -6,7 +6,7 @@ title: 'Statistical Shape Model of the Eustachian Tube for Understanding and Man
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
-  - Ameen Amanian
+  - Ameen Amanian*
   - Yuliang Xiao
   - Aseem Jain
   - Manish Sahu
@@ -14,8 +14,8 @@ authors:
 
 # Author notes (optional)
 author_notes:
-  - Equal
-  - Equal
+  - 'Equal contribution'
+  - 'Equal contribution'
   - ''
   - ''
   - ''
@@ -36,7 +36,7 @@ publication_types: ['poster-conference']
 publication: "*TRIOLOGICAL SOCIETY 125th Annual Meeting at Combined Otolaryngology Spring Meetings (Oral)*"
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Objectives: Statistical shape models (SSMs) are a method for mathematically defining three dimensional objects and their variation. SSMs have become increasingly useful in defining radiographic anatomy over the past decade. There is currently a lack of knowledge pertaining to the interpatient anatomical variation within the eustachian tube (ET). We aimed to develop an automated pipeline to develop the first radiographic SSMs of the ET. Study Design: Retrospective cohort study. Methods: A total of sixty ETs automatically segmented via a deep learning platform from computed tomography scans of adult patients were included. Each segmentation was separated into the nasopharyngeal (i.e., soft tissue), middle (i.e., cartilaginous), and ear (i.e., bony) ends. The first three principal components (PC) of each SSM were analyzed to describe shape variation. Results: Analysis of the nasopharyngeal end showed notable variation in size and orientation with respect to its articulation point with the middle ET portion. For the nasal end, the main variation occurred along its 1st PC corresponding to its long length axis with an average distance of 6.06-10.40mm. Analysis of the bony ET end showed most of its variability along its length and width. However, the bony ET demonstrated the least variation in shape (0.12-0.34mm). Conclusions: This study presents the first radiographic SSMs of the ET and shows that most of the ET variation occurs in the nasopharyngeal end. Due to pipeline’s automated nature, it can be translated into large data analysis by providing insight into the ET anatomy and used to investigate shape differences amongst patients with and without nasopharyngeal pathology
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
