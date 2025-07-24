@@ -78,8 +78,8 @@ sections:
       subtitle: ''
       # text: ''
       text: |
-        - **May 22, 2025:** My paper was accepted by *IJCARS*.
-        - **July 21, 2025:** My abstract was accepted by *RSNA* — see you in Chicago!
+        - [2025/07/21] Our CEM abstract gets accepted by **Radiological Society of North America 2025 Annual Meeting**, and selected as an oral presentation, see you in Chicago on Nov.30 - Dec. 4. 
+        - [2025/05/22] Our Cataract Surgery paper gets accepted by **International Journal of Computer Assisted Radiology and Surgery**
       # Page type to display. E.g. post, talk, publication...
       page_type: non_existent_type #post
       # Choose how many pages you would like to display (0 = all pages)
