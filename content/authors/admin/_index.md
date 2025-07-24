@@ -44,7 +44,7 @@ profiles:
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/zhiwei-gong75/
   - icon: academicons/google-scholar
-    # url: https://scholar.google.com/
+    url: https://scholar.google.com/citations?user=klHSxTwAAAAJ&hl=en&oi=sra
   - icon: academicons/orcid
     url: https://orcid.org/0009-0001-2411-960X
 
