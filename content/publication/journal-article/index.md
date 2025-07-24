@@ -31,7 +31,7 @@ publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*International Journal of Computer Assisted Radiology and Surgery*"
-publication_short: "IJCARS"
+publication_short: ""
 
 abstract: Assessment of intraoperative surgical skill is necessary to train surgeons and certify them for practice. The generalizability of deep learning models for video-based assessment (VBA) of surgical skill has not yet been evaluated. In this work, we evaluated one unsupervised domain adaptation (UDA) and three semi-supervised (SSDA) methods for generalizability of models for VBA of surgical skill in capsulorhexis by training on one dataset and testing on another. We used two datasets, D99 and Cataract-101 (publicly available), and two state-of-the-art models for capsulorhexis. The models include a convolutional neural network (CNN) to extract features from video images, followed by a long short-term memory (LSTM) network or a transformer. We augmented the CNN and the LSTM with attention modules. We estimated accuracy, sensitivity, specificity, and area under the receiver operating characteristic curve (AUC). Maximum mean discrepancy (MMD) did not improve generalizability of CNN-LSTM but slightly improved CNN transformer. Among the SSDA methods, Group Distributionally Robust Supervised Learning improved generalizability in most cases. Model performance improved with the domain adaptation methods we evaluated, but it fell short of within-dataset performance. Our results provide benchmarks on a public dataset for others to compare their methods.
 

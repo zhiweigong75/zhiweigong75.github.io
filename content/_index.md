@@ -74,9 +74,12 @@ sections:
   - block: collection
     id: news
     content:
-      title: Recent News
+      title: 📰 Recent News
       subtitle: ''
-      text: ''
+      # text: ''
+      text: |
+        - **May 22, 2025:** My paper was accepted by *IJCARS*.
+        - **July 21, 2025:** My abstract was accepted by *RSNA* — see you in Chicago!
       # Page type to display. E.g. post, talk, publication...
       page_type: non_existent_type #post
       # Choose how many pages you would like to display (0 = all pages)
