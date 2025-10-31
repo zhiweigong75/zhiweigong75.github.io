@@ -78,6 +78,7 @@ sections:
       subtitle: ''
       # text: ''
       text: |
+        - 🎉 [2025/10/27] Two papers are accepted by **SPIE Medical Imaging 2025: Imaging Informatics Conference**, and selected as oral presentations, see you in Vancouver!
         - 🥳 [2025/07/21] Our CEM abstract gets accepted by **Radiological Society of North America 2025 Annual Meeting**, and selected as an oral presentation, see you in Chicago on Nov.30 - Dec. 4.
         - 🎉 [2025/05/22] Our Cataract Surgery paper gets accepted by **International Journal of Computer Assisted Radiology and Surgery**.
       # Page type to display. E.g. post, talk, publication...
